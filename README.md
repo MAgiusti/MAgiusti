@@ -1,25 +1,20 @@
-### Hi there 👋
+## 👋 Hello, and welcome to my Github profile! I'm Marcelo, and I have a great interest in coding.
 
-<div>
+### 👀 Let's talk a bit about myself!
+- 📌 First of all, I just started my coder career, and my objective is to become a Full-Stack developer.
+- 📖 The languages that I'm currently learning are C#, Java Script and PHP.
+- 🔎 The only language that I already know is Lua.
+
+### 📊 Now that you know me, here are my statistics!
+<div align="center">
   <a href="https://github.com/MAgiusti">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MAgiusti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAgiusti&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MAgiusti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAgiusti&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcelo-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Marcelo-lua" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Marcelo-C#" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Marcelo-Lua" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
 </div>
 
-##
-
-![Snake animation](https://github.com/MAgiusti/MAgiusti/blob/output/github-contribution-grid-snake.svg)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👋 That's everything, cya!
