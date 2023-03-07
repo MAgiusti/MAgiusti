@@ -1,9 +1,19 @@
 ### Hi there 👋
 
-<!--
-**MAgiusti/MAgiusti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/MAgiusti">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MAgiusti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAgiusti&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Marcelo-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Marcelo-lua" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
+</div>
+
+##
+
+![Snake animation](https://github.com/MAgiusti/MAgiusti/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
