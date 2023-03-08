@@ -3,7 +3,7 @@
 ### 👀 Let's talk a bit about myself!
 - 📌 I just started my coder career, and my objective is to become a Full-Stack developer.
 - 📖 The languages that I'm currently learning are C#, Java Script and PHP.
-- 🔎 The only language that I already know is Lua.
+- 🔎 The only language that I know is Lua.
 - ✨ I'm from Brazil, but I can understand and speak english.
 
 ### 📊 Now that you know me, here are my statistics!
